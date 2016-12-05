@@ -1297,6 +1297,7 @@ class Zend_Validate_Hostname extends Zend_Validate_Abstract
         'فلسطين',
         'テスト',
         '政务',
+        'gmbh',
     );
 
     /**
